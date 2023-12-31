@@ -16,6 +16,8 @@ Flutter World is an application that serves as a miniature world of Flutter, enc
 
 **6. Animated User Interface:** Enhance the overall user experience with captivating animations. The app's interface is designed to be not only functional but also visually engaging, providing a delightful experience for users.
 
+**7. Customizable Dark Mode:** Tailor the app's appearance to your preference with the option to switch between Dark Mode and the standard mode, ensuring a comfortable and visually pleasing workout experience.
+
 ## Screenshots
 ![](/assets/screenshots/1.jpeg?raw=true "Optional Title") | ![](/assets/screenshots/2.jpeg?raw=true "Optional Title") | ![](/assets/screenshots/3.jpeg?raw=true "Optional Title")
 :-------------------------:|:-------------------------:|:-------------------------:
